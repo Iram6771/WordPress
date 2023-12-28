@@ -1,0 +1,72 @@
+body{
+    background-color: pink;
+}
+.main-div{
+    width: 800px;
+    height: 800px;
+    border: 3px solid black;
+    margin-left: 360px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.first-div{
+    width: 450px;
+    height: 200px;
+    margin: 15px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.second-div{
+    border: 3px solid black;
+    height: 150px;
+    width: 410px;
+    margin: 15px;
+
+}
+.third-div{
+    width: 700px;
+    height: 200px;
+    border: 3px solid black;
+    margin:15px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.first-sub{
+    border: 3px solid black;
+    height: 70px;
+    width: 150px;
+
+}
+.second-sub{
+    border: 3px solid black;
+    height: 70px;
+    width: 150px;
+
+}
+.thirdone-sub{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+}
+.thirdtwo-sub{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+}
+.thirdthree-sub{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+}
+
+
+
