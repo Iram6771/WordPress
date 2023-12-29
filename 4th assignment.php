@@ -1,3 +1,4 @@
+<?php
 /*Write a program which checks different numbers equivalent to a variable and gives number as output.
  Perform it using ifelse statement.*/
 $m = 5; //a is a variable and 5 is an integer value assigned to it.
